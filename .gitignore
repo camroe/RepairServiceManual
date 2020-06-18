@@ -2,6 +2,7 @@
 //temporary files.
 # Word temporary
 ~$*.doc*
+~$*.xlsx
 
 # Word Auto Backup File
 Backup of *.doc*
