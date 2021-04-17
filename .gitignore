@@ -1,8 +1,8 @@
 .DS_store
 //temporary files.
 # Word temporary
-~$*.doc*
-~$*.xlsx
+/**/~$*.doc*
+/**/~$*.xlsx
 
 # Word Auto Backup File
 Backup of *.doc*
